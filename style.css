@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(173, 233, 233)
+}
+
+.prediction{
+    font-size: 20px;
+    margin-top:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#heading{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
